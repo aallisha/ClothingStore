@@ -1,14 +1,3 @@
 webenv/
 .idea/
-shop/apps/migrations/__pycache__/
-shop/apps/__pycache__/
-shop/cart/migrations/__pycache__/
-shop/cart/__pycache__/
-shop/order/migrations/__pycache__/
-shop/order/migrations/__pycache__/
-shop/order/__pycache__/
-shop/product/migrations/__pycache__/
-shop/product/__pycache__/
-shop/shop/__pycache__/
-shop/vendor/migrations/__pycache__/
-shop/vendor/__pycache__/
+**/__pycache__
